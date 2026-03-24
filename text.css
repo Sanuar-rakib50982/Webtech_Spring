@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightyellow;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+
+label {
+    font-weight: bold;
+}
+
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: darkgreen;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: green;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+    font-family: monospace;
+}
